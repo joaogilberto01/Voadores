@@ -12,7 +12,7 @@ public class VoadoresMain {
         
         for (int i = 0; i < voadores.tamanho(); i++) {
             voadores.fazPlanar(i);
-            voadores.fazPolsar(i);
+            voadores.fazPousar(i);
             voadores.fazVoar(i);
         }
 

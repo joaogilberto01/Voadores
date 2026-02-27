@@ -20,7 +20,7 @@ public class RepositorioVoadores {
         voadors.get(posicao).voar();
     }
 
-    public void fazPolsar(int posicao) {
+    public void fazPousar(int posicao) {
         voadors.get(posicao).pousar();
     }
 
